@@ -1,4 +1,3 @@
-[![NPM version][npm-image]][npm-url]
 [![Project Status](http://opensource.box.com/badges/stable.svg)](http://opensource.box.com/badges)
 
 # WebPack with TypeScript 
